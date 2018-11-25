@@ -1,2 +1,2 @@
 # Chromium Browser
-PRODUCT_PACKAGES += Chromium
+PRODUCT_PACKAGES += Bromite
